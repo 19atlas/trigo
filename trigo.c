@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include <string.h>
+#include <math.h>
 #include"trigo.h"
 
 int secim;
@@ -15,6 +16,7 @@ int main(int argc, char **argv){
         scanf("%d",derece_d);
     } else {
         printf("π nin kaç katı?\nörn. 2/3\n= ");
+        //double radyan = aci * M_PI / 180; // Dereceden radyana dönüşüm
         
     }
     
