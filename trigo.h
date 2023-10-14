@@ -7,7 +7,7 @@ void hangifonc(int a){
     if(a >= 1 && a <= 4){
         ffonc = trigo[a];
     } else {
-        printf("Hatalı sonuc");
+        printf("Hatalı secim");
         exit(1);
     }
 }
