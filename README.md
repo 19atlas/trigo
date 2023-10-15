@@ -1,3 +1,3 @@
 ##TRİGOOO
 trigonometrideki işlemleri c ye aktardım
-make ile derleyin
+`make` ile derleyin
