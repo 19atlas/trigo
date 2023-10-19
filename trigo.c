@@ -10,7 +10,7 @@ int main(int argc, char **argv) {
     scanf("%d",&secim);
     hangifonc(secim);
     printf("%s(x)\n",ffonc);
-    if (strcmp (argv[1], "--derece") == 0) {
+    if (strcmp (argv[1], "-d") == 0) {
         int derece_d = 0;
         printf("x bir derece olmak üzere,\nx = ");
         scanf("%d",&derece_d);
