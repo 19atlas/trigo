@@ -25,3 +25,10 @@ void bolgeal(int aci){
     printf("%d. bolgede",abolge);
 }
 //void isaret(){}
+
+void islem_d(int n){
+
+}
+void islem_r(char deg){
+
+}
