@@ -24,11 +24,22 @@ void bolgeal(int aci){
     }
     printf("%d. bolgede",abolge);
 }
-//void isaret(){}
 
-void islem_d(int n){
+//1. bolgede her fonk +
+//2. bolgede cos tan cot -
+//3. bolgede cos sin -
+//4. bolgede sin tan cot -
 
+char* isaret;
+void islem_d(int n, int fos){
+    if(abolge !=1 ){
+        
+    }else{
+        
+    }
 }
-void islem_r(char deg){
+void islem_r(char deg, int fos){
+    if(abolge && ){
+    }
 
 }
