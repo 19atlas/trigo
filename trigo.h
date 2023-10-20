@@ -31,8 +31,20 @@ void bolgeal(int aci){
 //4. bolgede sin tan cot -
 
 char* isaret;
+
+void isaret_al(int fonk){
+    if(abolge = 2){
+        //if()
+    }else{
+        isaret = "+"
+        
+    }
+
+}
+
 void islem_d(int n, int fos){
-    if(abolge !=1 ){
+    isaret_al(fos);
+    if(n == 180 || n == 270){
         
     }else{
         
