@@ -2,6 +2,7 @@
 
 char* trigo[] = {"","cos","sin","tan","cot"};
 const char* ffonc;
+int abolge;
 
 void hangifonc(int s){
     if(s >= 1 && s <= 4){
@@ -12,7 +13,6 @@ void hangifonc(int s){
     }
 }
 void bolgeal(int aci){
-    int abolge;
     if (aci >= 0 && aci < 90) {
         abolge = 1;
     } else if (aci > 90 && aci < 180) {
@@ -33,25 +33,29 @@ void bolgeal(int aci){
 char* isaret;
 
 void isaret_al(int fonk){
-    if(abolge = 2){
-        //if()
+    if(abolge != 1){
+        
     }else{
-        isaret = "+"
+        isaret = "+";
         
     }
 
 }
 
 void islem_d(int n, int fos){
+
+}
+void islem_r(char* deg, int fos){
+    /*if(abolge && ){
+    }*/
+
+}
+
+void islem(int t,int fos){
     isaret_al(fos);
     if(n == 180 || n == 270){
-        
+        abolge
     }else{
         
     }
-}
-void islem_r(char deg, int fos){
-    if(abolge && ){
-    }
-
 }
